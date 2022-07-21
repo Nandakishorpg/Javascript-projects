@@ -1,0 +1,18 @@
+{
+    "music": [
+        {
+            "name": "Ambarsariya",
+
+            "img": "ambarsariyaa.jpg",
+
+            "song": "/music/ambarsariya.m4a"
+        },
+        {
+            "name": "Kadhal En kaviye",
+
+            "img": "kaviye.jpg",
+
+            "song": "/music/kaviye.m4a"
+        }
+    ]
+}
